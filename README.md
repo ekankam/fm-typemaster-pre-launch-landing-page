@@ -1,9 +1,34 @@
-# React + Vite
+# Frontend Mentor - Typemaster pre-launch landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Design preview for the Typemaster pre-launch landing page coding challenge](./public/preview.jpg)
 
-Currently, two official plugins are available:
+## Welcome! 👋
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# fm-typemaster-pre-launch-landing-page
+Thanks for purchasing this premium Frontend Mentor coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
+
+**To do this challenge, you need a good understanding of HTML and CSS.**
+
+## The challenge
+
+Your challenge is to build out this landing page and get it looking as close to the design as possible.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+
+## Stack
+
+- Vite
+- ReactJS
+- TailwindCSS
+
+## Solution
+
+![Desktop View](./public/screenshot.png)
